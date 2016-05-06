@@ -6,4 +6,4 @@ Android-iOS communication -- inconclusive (my Android device is out of commissio
 PC(netcat)-iOS communication -- confirmed working  
 PC(netcat)-Android communication -- does not work (see below)  
   
-Android Studio Emulator lacks the ability connect to WiFi. Within the Emulator, broadcast and reception works as expected. On a physical device, behavior is unpredictable.
+Android Studio Emulator lacks the ability connect to WiFi. Within the Emulator, broadcast and reception works as expected. On a physical Android device, behavior is unpredictable because my development device has been out of commission.
